@@ -1,0 +1,176 @@
+[
+    {
+        "question": "Which Article of the Indian Constitution deals with the Amendment of the Constitution?",
+        "options": ["Article 360", "Article 368", "Article 370", "Article 372"],
+        "correct_answer": "Article 368",
+        "explanation": "Article 368 of the Indian Constitution provides the procedure for amending the Constitution."
+    },
+    {
+        "question": "The 'Quit India' resolution was passed by the Indian National Congress in which year?",
+        "options": ["1939", "1940", "1941", "1942"],
+        "correct_answer": "1942",
+        "explanation": "The 'Quit India' resolution was passed by the Indian National Congress on 8th August 1942, leading to the Quit India Movement."
+    },
+    {
+        "question": "Which one of the following rivers does not originate in India?",
+        "options": ["Ganga", "Brahmaputra", "Yamuna", "Godavari"],
+        "correct_answer": "Brahmaputra",
+        "explanation": "The Brahmaputra river originates in Tibet, not in India."
+    },
+    {
+        "question": "Which of the following is the longest dam in India?",
+        "options": ["Hirakud Dam", "Bhakra Nangal Dam", "Tehri Dam", "Nagarjuna Sagar Dam"],
+        "correct_answer": "Hirakud Dam",
+        "explanation": "The Hirakud Dam, located in Odisha, is the longest dam in India."
+    },
+    {
+        "question": "Which Indian state is known as the 'Spice Garden of India'?",
+        "options": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"],
+        "correct_answer": "Kerala",
+        "explanation": "Kerala is known as the 'Spice Garden of India' because of its large production of spices like pepper, cardamom, and cinnamon."
+    },
+    {
+        "question": "The famous 'Gateway of India' is located in which city?",
+        "options": ["Delhi", "Mumbai", "Kolkata", "Chennai"],
+        "correct_answer": "Mumbai",
+        "explanation": "The Gateway of India is a historic monument located in Mumbai, Maharashtra."
+    },
+    {
+        "question": "The 'Dandi March' led by Mahatma Gandhi was associated with:",
+        "options": ["Non-cooperation Movement", "Civil Disobedience Movement", "Khilafat Movement", "Quit India Movement"],
+        "correct_answer": "Civil Disobedience Movement",
+        "explanation": "The Dandi March in 1930, led by Mahatma Gandhi, was a significant event in the Civil Disobedience Movement."
+    },
+    {
+        "question": "Which state in India is the largest producer of coffee?",
+        "options": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"],
+        "correct_answer": "Karnataka",
+        "explanation": "Karnataka is the largest producer of coffee in India, contributing around 70% of the country's total production."
+    },
+    {
+        "question": "Which of the following cities is called the 'Silicon Valley of India'?",
+        "options": ["Hyderabad", "Pune", "Bengaluru", "Chennai"],
+        "correct_answer": "Bengaluru",
+        "explanation": "Bengaluru is known as the 'Silicon Valley of India' because of its role as the nation's leading IT exporter."
+    },
+    {
+        "question": "The monsoon season in India typically occurs in which months?",
+        "options": ["June to September", "October to November", "March to May", "December to February"],
+        "correct_answer": "June to September",
+        "explanation": "The monsoon season in India typically occurs from June to September, bringing heavy rainfall across the country."
+    },
+    {
+        "question": "The Nehru-Liaquat Pact (1950) is related to:",
+        "options": ["Protection of minority communities in India and Pakistan", "Indo-Pakistani trade relations", "Indo-Pakistani territorial disputes", "India-China border issues"],
+        "correct_answer": "Protection of minority communities in India and Pakistan",
+        "explanation": "The Nehru-Liaquat Pact was an agreement between India and Pakistan to ensure the rights of minority communities in both countries."
+    },
+    {
+        "question": "Which one of the following mountain passes is located on the western end of the Zaskar range?",
+        "options": ["Jelep La", "Shipki La", "Khardung La", "Niti Pass"],
+        "correct_answer": "Shipki La",
+        "explanation": "Shipki La is a high-altitude pass located on the western end of the Zaskar range."
+    },
+    {
+        "question": "Which city is known as the 'Gateway to the North-East'?",
+        "options": ["Kolkata", "Guwahati", "Shillong", "Dispur"],
+        "correct_answer": "Guwahati",
+        "explanation": "Guwahati is often referred to as the 'Gateway to the North-East' due to its strategic location and importance."
+    },
+    {
+        "question": "Where is the Central Drug Research Institute (CDRI) located?",
+        "options": ["Lucknow", "Bengaluru", "Hyderabad", "Delhi"],
+        "correct_answer": "Lucknow",
+        "explanation": "The Central Drug Research Institute (CDRI) is located in Lucknow, Uttar Pradesh."
+    },
+    {
+        "question": "Who was the first Muslim President of the Indian National Congress?",
+        "options": ["Maulana Abul Kalam Azad", "Badruddin Tyabji", "Zakir Husain", "Muhammad Ali Jinnah"],
+        "correct_answer": "Badruddin Tyabji",
+        "explanation": "Badruddin Tyabji was the first Muslim to be elected as the President of the Indian National Congress."
+    },
+    {
+        "question": "Which of the following is the longest peninsular river in India?",
+        "options": ["Narmada", "Krishna", "Godavari", "Mahanadi"],
+        "correct_answer": "Godavari",
+        "explanation": "The Godavari is the longest river in peninsular India, also known as the 'Dakshina Ganga.'"
+    },
+    {
+        "question": "The idea of decentralization of power in India is incorporated in which Constitutional Amendment Act?",
+        "options": ["61st Amendment Act", "73rd Amendment Act", "44th Amendment Act", "42nd Amendment Act"],
+        "correct_answer": "73rd Amendment Act",
+        "explanation": "The 73rd Amendment Act of 1992 introduced the Panchayati Raj system, which decentralized power to local government institutions."
+    },
+    {
+        "question": "Which Indian scientist is credited with laying the foundation of modern science in India?",
+        "options": ["C.V. Raman", "Homi J. Bhabha", "Satyendra Nath Bose", "Meghnad Saha"],
+        "correct_answer": "C.V. Raman",
+        "explanation": "C.V. Raman was a pioneering scientist whose work laid the foundation of modern science in India, especially with his discovery of the Raman Effect."
+    },
+    {
+        "question": "Which temple in Tamil Nadu is the world's largest functioning Hindu temple?",
+        "options": ["Meenakshi Temple", "Brihadeeswarar Temple", "Venkateswara Temple", "Ranganathaswamy Temple"],
+        "correct_answer": "Ranganathaswamy Temple",
+        "explanation": "The Ranganathaswamy Temple in Srirangam, Tamil Nadu, is the world's largest functioning Hindu temple."
+    },
+    {
+        "question": "Which UNESCO World Heritage Site in India is famous for its erotic sculptures?",
+        "options": ["Ajanta Caves", "Khajuraho Temples", "Konark Sun Temple", "Elephanta Caves"],
+        "correct_answer": "Khajuraho Temples",
+        "explanation": "The Khajuraho Temples in Madhya Pradesh are known for their intricate and erotic sculptures."
+    },
+    {
+        "question": "The Battle of Plassey was fought between:",
+        "options": ["Nawab of Awadh and East India Company", "Nawab of Bengal and East India Company", "Marathas and East India Company", "Nizam of Hyderabad and East India Company"],
+        "correct_answer": "Nawab of Bengal and East India Company",
+        "explanation": "The Battle of Plassey in 1757 was fought between the Nawab of Bengal, Siraj-ud-Daulah, and the British East India Company."
+    },
+    {
+        "question": "Who was the Viceroy of India during the Quit India Movement?",
+        "options": ["Lord Wavell", "Lord Linlithgow", "Lord Mountbatten", "Lord Irwin"],
+        "correct_answer": "Lord Linlithgow",
+        "explanation": "The Quit India Movement was launched in 1942 during the tenure of Lord Linlithgow as Viceroy of India."
+    },
+    {
+        "question": "Which river is known as the 'Sorrow of Bihar' due to its frequent floods?",
+        "options": ["Ganga", "Kosi", "Yamuna", "Ghaghara"],
+        "correct_answer": "Kosi",
+        "explanation": "The Kosi River is known as the 'Sorrow of Bihar' due to its history of causing devastating floods in the region."
+    },
+    {
+        "question": "The Great Bath, a significant archaeological find, is located in which Indus Valley Civilization site?",
+        "options": ["Harappa", "Mohenjo-daro", "Lothal", "Dholavira"],
+        "correct_answer": "Mohenjo-daro",
+        "explanation": "The Great Bath, one of the most remarkable structures of the Indus Valley Civilization, is located in Mohenjo-daro."
+    },
+    {
+        "question": "Which Indian state has the largest forest cover by area?",
+        "options": ["Madhya Pradesh", "Arunachal Pradesh", "Chhattisgarh", "Maharashtra"],
+        "correct_answer": "Madhya Pradesh",
+        "explanation": "Madhya Pradesh has the largest forest cover by area among all Indian states."
+    },
+    {
+        "question": "Who is known as the 'Father of the Indian Constitution'?",
+        "options": ["Mahatma Gandhi", "B. R. Ambedkar", "Jawaharlal Nehru", "Rajendra Prasad"],
+        "correct_answer": "B. R. Ambedkar",
+        "explanation": "Dr. B. R. Ambedkar is known as the 'Father of the Indian Constitution' due to his pivotal role in drafting the Constitution of India."
+    },
+    {
+        "question": "The first woman to receive the Bharat Ratna award was:",
+        "options": ["Indira Gandhi", "Mother Teresa", "Sarojini Naidu", "M. S. Subbulakshmi"],
+        "correct_answer": "Indira Gandhi",
+        "explanation": "Indira Gandhi was the first woman to receive the Bharat Ratna, India's highest civilian award, in 1971."
+    },
+    {
+        "question": "Which Indian classical dance form originates from Odisha?",
+        "options": ["Bharatanatyam", "Kathak", "Odissi", "Kuchipudi"],
+        "correct_answer": "Odissi",
+        "explanation": "Odissi is a classical dance form that originates from the state of Odisha in eastern India."
+    },
+    {
+        "question": "Which peak is the highest in the Nilgiri range?",
+        "options": ["Doddabetta", "Kolaribetta", "Mukurthi", "Avalanche Peak"],
+        "correct_answer": "Doddabetta",
+        "explanation": "Doddabetta is the highest peak in the Nilgiri range, located in Tamil Nadu."
+    }
+]
