@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of baking soda?",
+      "options": [
+        "NaHCO3",
+        "NH4Cl",
+        "Na2CO3",
+        "CaSO4"
+      ],
+      "answer": "NaHCO3"
+    },
+    {
+      "question": "Which of the following is the correct chemical formula of sodium aluminate?",
+      "options": [
+        "NaAlO2",
+        "Na3AlO",
+        "NaAlO3",
+        "Na2AlO3"
+      ],
+      "answer": "NaAlO2"
+    },
+    {
+      "question": "What is the chemical name of the ionic compound NaCl?",
+      "options": [
+        "Lithium chloride",
+        "Cesium fluoride",
+        "Calcium iodide",
+        "Sodium chloride"
+      ],
+      "answer": "Sodium chloride"
+    },
+    {
+      "question": "What is the chemical name of battery acid?",
+      "options": [
+        "Sulfuric acid",
+        "Barium sulfate",
+        "Hypochlorous acid",
+        "Boric acid"
+      ],
+      "answer": "Sulfuric acid"
+    },
+    {
+      "question": "Identify the chemical structure for potassium hydroxide.",
+      "options": [
+        "KOH",
+        "K2O",
+        "POH2",
+        "K2H2"
+      ],
+      "answer": "KOH"
+    },
+    {
+      "question": "Which compound has the chemical formula CHCl3?",
+      "options": [
+        "Carbon tetrachloride",
+        "Chlorophenol",
+        "Chloroform",
+        "Chloroethanol"
+      ],
+      "answer": "Chloroform"
+    },
+    {
+      "question": "Find the correct chemical formula of nitromethane.",
+      "options": [
+        "CH3NO",
+        "CH3NO2",
+        "CH4NO2",
+        "CH3NO3"
+      ],
+      "answer": "CH3NO2"
+    }
+  ]
+}
