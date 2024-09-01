@@ -1,0 +1,123 @@
+[
+    {
+        "question": "Statement (A): Tungsten filament is used to make light bulbs.\nReason (R): Tungsten has a high melting point.\nChoose the correct option:",
+        "options": {
+            "a": "Both A and R are true, and R is the correct explanation of A.",
+            "b": "Both A and R are true, but R is not the correct explanation of A.",
+            "c": "A is true, but R is false.",
+            "d": "A is false, but R is true."
+        },
+        "correct_answer": "b",
+        "solution": "Both statements are true. Tungsten is used in light bulbs due to its high melting point, but the reason (R) is not directly the explanation for the statement (A)."
+    },
+    {
+        "question": "Mirages are mainly caused due to the phenomenon of:",
+        "options": {
+            "a": "Reflection",
+            "b": "Diffusion",
+            "c": "Total internal reflection",
+            "d": "Scattering"
+        },
+        "correct_answer": "c",
+        "solution": "Mirages occur due to total internal reflection of light in layers of air with varying temperatures."
+    },
+    {
+        "question": "A condition in which a person cannot see distant objects clearly is called:",
+        "options": {
+            "a": "Hypermetropia",
+            "b": "Night Blindness",
+            "c": "Myopia",
+            "d": "Strabismus"
+        },
+        "correct_answer": "c",
+        "solution": "Myopia, also known as nearsightedness, is the condition where distant objects appear blurry."
+    },
+    {
+        "question": "Which organ in the body is responsible for the purification of blood?",
+        "options": {
+            "a": "Heart",
+            "b": "Gallbladder",
+            "c": "Kidneys",
+            "d": "Spleen"
+        },
+        "correct_answer": "c",
+        "solution": "The kidneys filter and purify the blood by removing waste products and excess substances."
+    },
+    {
+        "question": "Convex mirrors are used in:",
+        "options": {
+            "a": "Rearview mirrors in vehicles",
+            "b": "Glass windows",
+            "c": "Makeup mirrors",
+            "d": "Kaleidoscopes"
+        },
+        "correct_answer": "a",
+        "solution": "Convex mirrors are commonly used in vehicles for rearview mirrors because they provide a wider field of view."
+    },
+    {
+        "question": "Plaster of Paris is made from:",
+        "options": {
+            "a": "Limestone",
+            "b": "Gypsum",
+            "c": "Quicklime",
+            "d": "Slaked lime"
+        },
+        "correct_answer": "b",
+        "solution": "Plaster of Paris is made by heating gypsum to about 150°C, resulting in a fine white powder."
+    },
+    {
+        "question": "Which of the following is commonly used for water purification?",
+        "options": {
+            "a": "Nitrogen",
+            "b": "Alum",
+            "c": "Sodium",
+            "d": "Carbon dioxide"
+        },
+        "correct_answer": "b",
+        "solution": "Alum is often used in water treatment to coagulate impurities, making them easier to remove."
+    },
+    {
+        "question": "The effect of an acid from an ant bite can be neutralized by rubbing moist baking soda or a solution containing zinc carbonate.",
+        "options": {
+            "a": "Caprylyl glycol",
+            "b": "Calamine",
+            "c": "Behenyl alcohol",
+            "d": "Benzethonium chloride"
+        },
+        "correct_answer": "b",
+        "solution": "Calamine is often used to soothe itching and irritation caused by insect bites, including ant bites."
+    },
+    {
+        "question": "Which plant hormone is most concentrated at the tip of the plant and decreases as it reaches the roots?",
+        "options": {
+            "a": "Ethylene",
+            "b": "Gibberellin",
+            "c": "Auxin",
+            "d": "Cytokinin"
+        },
+        "correct_answer": "c",
+        "solution": "Auxin is a plant hormone that is primarily concentrated at the tip of the plant and influences growth."
+    },
+    {
+        "question": "Which enzyme breaks down proteins?",
+        "options": {
+            "a": "Lipase",
+            "b": "Amylase",
+            "c": "Ptyalin",
+            "d": "Pepsin"
+        },
+        "correct_answer": "d",
+        "solution": "Pepsin is an enzyme that breaks down proteins into smaller peptides in the stomach."
+    },
+    {
+        "question": "Which of the following is not a transverse wave?",
+        "options": {
+            "a": "Light wave",
+            "b": "Radio wave",
+            "c": "Electromagnetic wave",
+            "d": "Sound wave"
+        },
+        "correct_answer": "d",
+        "solution": "Sound waves are longitudinal waves, unlike light, radio, and electromagnetic waves, which are transverse."
+    }
+]
